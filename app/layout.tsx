@@ -6,10 +6,14 @@ export const metadata: Metadata = {
   description: "naturegush – Pure, safe and sustainable bottled drinking water",
    keywords: [
     "Nature Gush",
+    "naturegush",
     "bottled water company",
     "drinking water manufacturer",
     "mineral water plant",
   ],
+   verification: {
+    google: "fFVAz3dAvpO64kaZIWzmiZUNVDMImZfRxuBKogwsLto", // 👈 paste ONLY the content value
+  },
 };
 
 export default function RootLayout({
