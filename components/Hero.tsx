@@ -12,7 +12,7 @@ export default function Hero() {
       >
         <h1 className="text-5xl font-bold">Pure Water. Natural Life.</h1>
         <p className="mt-4 text-lg">
-          Nature Gush – Bottled with purity and care
+          naturegush – Bottled with purity and care
         </p>
         <button className="mt-6 px-6 py-3 bg-white text-blue-600 rounded-full font-semibold">
           Explore Our Process

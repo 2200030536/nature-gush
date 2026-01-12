@@ -2,8 +2,8 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Nature Gush | Pure Drinking Water",
-  description: "Nature Gush – Pure, safe and sustainable bottled drinking water",
+  title: "naturegush | Pure Drinking Water",
+  description: "naturegush – Pure, safe and sustainable bottled drinking water",
 };
 
 export default function RootLayout({
